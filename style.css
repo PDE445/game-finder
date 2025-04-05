@@ -1,0 +1,41 @@
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(51, 0, 153);
+}
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #ff9c9c;
+    font-size: 20px;
+}
+
+.banner {
+    width: 100%;
+    background: url(images/bg.jpg);
+    background-size: cover;
+    padding-top: 40vh;
+    padding-left: 30px;
+    padding-bottom: 10vh;
+    color: white;
+}
+
+p {
+    font-size: 15px;
+}
+p2 {
+    font-size: 15px;
+    
+}
+
+footer {
+    background-color: rgb(51, 0, 153);
+}
+
+.footerInner {
+    font-size: 18px;
+}
